@@ -25,7 +25,8 @@ Dada la tendencia en el uso de tecnologías de automatización, se ha creado la 
 0. **Presentación del curso *Automatización industrial***
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/automation/raw/master/lectures/00_automation_syllabus.pdf)
 
-
+1. **Introducción a la *Automatización industrial***
+	* Descargar presentación [[PDF]](https://github.com/marcoteran/automation/raw/master/lectures/01_automation_introduction.pdf)
 ---
 ## Laboratorios
 
